@@ -1,11 +1,16 @@
 # Daily_Data_Structure_and_Python
 
 ## Numpy
-`19 April 2026` <h4>Numpy has been learned</h4>
+`19 April 2026`
+Numpy has been learned
 
 
 
 ## Pandas
-`20 April 2026` <h4>Series Has been completed</h4>
+`20 April 2026`
+Series Has been completed
 
-`21 April 2026` <h4>Pandas has been learned</h4>
+<h4>br</h4>
+
+`21 April 2026`
+Pandas has been learned
