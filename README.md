@@ -2,13 +2,13 @@
 
 ## Numpy
 `19 April 2026`
-Numpy has been learned
+<h4>Numpy has been learned</h4>
 
 
 
 ## Pandas
-<h4>`20 April 2026`</h4>
-Series Has been completed
+`20 April 2026`
+<h4>Series Has been completed</h4>
 
-<h4>`21 April 2026`</h4>
-Pandas has been learned
+`21 April 2026`
+<h4>Pandas has been learned</h4>
