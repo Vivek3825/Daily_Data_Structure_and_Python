@@ -7,8 +7,8 @@ Numpy has been learned
 
 
 ## Pandas
-`20 April 2026`
+<h4>`20 April 2026`</h4>
 Series Has been completed
-``` ```
-`21 April 2026`
+
+<h4>`21 April 2026`</h4>
 Pandas has been learned
