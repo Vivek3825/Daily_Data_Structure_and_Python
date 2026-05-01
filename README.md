@@ -12,3 +12,9 @@ Series Has been completed
 
 `21 April 2026`
 Pandas has been learned
+
+
+## Matplotlib
+
+`1 May 2026`
+Matplotlib has been learned
