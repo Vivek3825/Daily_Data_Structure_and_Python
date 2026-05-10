@@ -18,3 +18,22 @@ Pandas has been learned
 
 `1 May 2026`
 Matplotlib has been learned
+
+
+## Object Oriented Programming
+`10 May 2026`
+Learned OOPs concepts: 
+```
+✅ Classes & Objects
+✅ Encapsulation
+✅ Inheritance (all major types)
+✅ Polymorphism
+✅ Abstraction
+✅ Composition
+✅ Method Overriding
+✅ super() and MRO basics
+✅ Dunder methods
+✅ Operator overloading
+✅ Class/static methods
+✅ Properties (getter/setter/deleter)
+```
