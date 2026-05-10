@@ -22,7 +22,7 @@ Matplotlib has been learned
 
 ## Object Oriented Programming
 `10 May 2026`
-Learned OOPs concepts: 
+Revised OOPs concepts: 
 ```
 ✅ Classes & Objects
 ✅ Encapsulation
