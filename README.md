@@ -11,6 +11,9 @@ Numpy has been learned
 Series Has been completed
 
 `21 April 2026`
+DataFrame has been learned
+
+`22 April 2026`
 Pandas has been learned
 
 
