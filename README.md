@@ -1,30 +1,13 @@
 # Daily_Data_Structure_and_Python
 
-## Numpy
-`19 April 2026`
-Numpy has been learned
 
-
-
-## Pandas
-`20 April 2026`
-Series Has been completed
-
-`21 April 2026`
-DataFrame has been learned
-
-`22 April 2026`
-Pandas has been learned
-
-
-## Matplotlib
-
-`1 May 2026`
-Matplotlib has been learned
+## Data Structures
+`15 June 2026 --> Started:-` 
+Learned Time & Space Complexity 
 
 
 ## Object Oriented Programming
-`10 May 2026`
+`10 May 2026:-`
 Revised OOPs concepts: 
 ```
 ✅ Classes & Objects
@@ -40,3 +23,24 @@ Revised OOPs concepts:
 ✅ Class/static methods
 ✅ Properties (getter/setter/deleter)
 ```
+
+
+## Matplotlib
+`1 May 2026:-`
+Matplotlib has been learned
+
+
+## Pandas
+`20 April 2026:-`
+Series Has been completed
+
+`21 April 2026:-`
+DataFrame has been learned
+
+`22 April 2026:-`
+Pandas has been learned
+
+
+## Numpy
+`19 April 2026:-`
+Numpy has been learned
