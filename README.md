@@ -2,6 +2,9 @@
 
 
 ## Data Structures
+`16 June 2026:-` 
+Learned Built-in Data Structures in Python
+
 `15 June 2026 --> Started:-` 
 Learned Time & Space Complexity 
 
@@ -31,14 +34,14 @@ Matplotlib has been learned
 
 
 ## Pandas
-`20 April 2026:-`
-Series Has been completed
+`22 April 2026:-`
+Pandas has been learned
 
 `21 April 2026:-`
 DataFrame has been learned
 
-`22 April 2026:-`
-Pandas has been learned
+`20 April 2026:-`
+Series Has been completed
 
 
 ## Numpy
