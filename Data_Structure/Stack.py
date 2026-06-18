@@ -1,4 +1,9 @@
-# STACK
+"""
+STACK: -
+    Top: 
+    The pointer that tracks the topmost element in the stack. 
+    All insertions and deletions happen exclusively at this position.
+"""
 
 class Stack:
     def __init__(self, size = 10):
