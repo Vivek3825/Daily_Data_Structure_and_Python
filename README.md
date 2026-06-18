@@ -2,6 +2,9 @@
 
 ## Revise Data Structures
 `18 June 2026:-` 
+Learned Queue
+
+`18 June 2026:-` 
 Learned Stack
 
 `16 June 2026:-` 
