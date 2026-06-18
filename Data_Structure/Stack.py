@@ -1,5 +1,5 @@
 """
-STACK: -
+STACK:- Follows LIFO principle
     Top: 
     The pointer that tracks the topmost element in the stack. 
     All insertions and deletions happen exclusively at this position.
