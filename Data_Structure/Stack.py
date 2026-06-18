@@ -1,6 +1,6 @@
-# STAKE
+# STACK
 
-class Stake:
+class Stack:
     def __init__(self, size = 10):
         self.size = size
         self.list = [None] * self.size
@@ -34,7 +34,7 @@ class Stake:
             print('Stack is empty...')
             return True
         else:
-            print('Stake is not empty')
+            print('Stack is not empty')
             return False
 
     def isFull(self):
@@ -43,16 +43,20 @@ class Stake:
             return True
 
         else:
-            print(f"{self.size - self.currentLocation} Elements space is available....")
+            print(f"{self.size - self.currentLocation} Elements space is available in the Stake")
             return False
-
 
     def show(self):
         print(f'Stack elements are: {self.list[:self.currentLocation]}')
 
+    def peer(self):
+        peerElement = self.list[self.currentLocation - 1]
+        print(f'Top element in the Stack is {peerElement}')
+        return(peerElement)
+
 def main():
-    size = int(input('Enter size of stake: '))
-    s = Stake(size = size)
+    size = int(input('Enter size of Stack: '))
+    s = Stack(size = size)
 
     while True:
         print('___________________________________________________________________________\n')
@@ -62,6 +66,7 @@ def main():
         print('To isEmpty  --> 3')
         print('To isFull   --> 4')
         print('To Show     --> 5')
+        print('To Peer     --> 6')
         print('To exit     --> 0', '\n')
         
         i = int(input('Enter your choice: '))
@@ -79,6 +84,8 @@ def main():
             s.isFull()
         elif i == 5:
             s.show()
+        elif i == 6:
+            s.peer()
         else:
             print('Invalide Choice!')
 

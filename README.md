@@ -1,9 +1,8 @@
 # Daily_Data_Structure_and_Python
 
-
 ## Revise Data Structures
 `18 June 2026:-` 
-Learned Stake
+Learned Stack
 
 `16 June 2026:-` 
 Learned Built-in Data Structures in Python
