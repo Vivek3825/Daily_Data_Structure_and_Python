@@ -1,6 +1,9 @@
 # Daily_Data_Structure_and_Python
 
 ## Revise Data Structures
+`21 June 2026:-` 
+Learned Doubly Linked List
+
 `18 June 2026:-` 
 Learned Queue
 
