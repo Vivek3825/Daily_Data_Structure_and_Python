@@ -1,6 +1,15 @@
 # Daily_Data_Structure_and_Python
 
 ## Revise Data Structures
+`25 June 2026:-` 
+Learned Hashing:- with open addressing (linear probing) and Custom key
+
+`24 June 2026:-` 
+Learned Hashing:- with Auto Generated Key
+
+`23 June 2026:-` 
+Learned Linear Search & Binary Search
+
 `22 June 2026:-` 
 Learned Circular Linked List
 
