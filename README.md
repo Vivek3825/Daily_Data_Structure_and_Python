@@ -1,6 +1,16 @@
 # Daily_Data_Structure_and_Python
 
 ## Revise Data Structures
+`1 July 2026:-` 
+Learned Sorting Algorithms:
+```
+Selection Sort
+Bubble Sort
+Insertion Sort
+Merge Sort
+Quick Sort
+```
+
 `25 June 2026:-` 
 Learned Hashing:- with open addressing (linear probing) and Custom key
 
